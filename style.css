@@ -1,0 +1,25 @@
+#top-bar {
+    border: 3px solid green;
+    width: 100%;
+    display: flex;
+}
+
+#top-bar div {
+    margin-right: 10px;
+}
+
+header {
+    border: 3px solid red;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav {
+    border 3px solid purple;
+    display: flex;
+}
+
+
+nav div {
+    margin-right: 10px;
+}
